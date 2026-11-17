@@ -12,8 +12,6 @@ Aplicativo de blog educacional desenvolvido com **React Native e TypeScript**, i
 - Gerenciamento de professores por administradores e de estudantes por professores.
 - Casos de uso para listagem, criação, atualização e exclusão de comentários.
 
-> Os fluxos de posts, autenticação, gerenciamento de usuários e comentários foram documentados com base nos arquivos recebidos. Os scripts, versões e a navegação principal foram confirmados em `package.json` e `App.tsx`; instruções nativas detalhadas ainda dependem das configurações de plataforma.
-
 ## Tecnologias e bibliotecas identificadas
 
 - React Native e TypeScript.
